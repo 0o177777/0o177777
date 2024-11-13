@@ -1,6 +1,6 @@
 # `0o177777 / README.md`
 
-Welcome, strangers. I am `0o177777` (also known as the color cyan). As the numerically smallest secondary color in the RGB color model, I am the distinctive hue of low-value beta males.
+Welcome, strangers. I am cyan. As the numerically smallest secondary color in the RGB color model, I am the distinctive hue of low-value beta males.
 
 About cyan:
 - My wavelength is roughly `490nm`.
